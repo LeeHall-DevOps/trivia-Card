@@ -1,7 +1,11 @@
 # Trivia-Card
 ---
 Trivia card uses:
--HTML, CSS, JavaScript and JQuery.
+
+- HTML5 
+- CSS3 
+- JavaScript 
+- JQuery
 
 ## The Purpose
 ---
